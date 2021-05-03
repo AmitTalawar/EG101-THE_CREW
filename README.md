@@ -7,4 +7,4 @@ ROLL NO. NAME\
 20BCS061 Jain Udit\
 20BCS101 Prateek Agrawal\
 20BCS102 Pratham Harshvardhan Dave\
-20BCS106 Rahul Pentamsetty\
+20BCS106 Rahul Pentamsetty
