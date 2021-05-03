@@ -2,7 +2,7 @@
 Assignments for Engineering 101
 ROLL NO. NAME
 20BCS011 Amit Appanna Talawar
-20BCS014 Anant Terkar\n
+20BCS014 Anant Terkar
 20BCS019 Annamaneni Rohit
 20BCS061 Jain Udit
 20BCS101 Prateek Agrawal
