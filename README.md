@@ -8,5 +8,3 @@ ROLL NO. NAME
 20BCS101 Prateek Agrawal
 20BCS102 Pratham Harshvardhan Dave
 20BCS106 Rahul Pentamsetty
-
-hghjhgxgfxgf
